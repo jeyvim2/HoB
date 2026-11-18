@@ -6,7 +6,7 @@ Houdini engine cooks the results (geometry, volumes, images, USD stages, rigs) i
 
 - **Download:** [latest release](https://github.com/jeyvim2/HoB/releases/latest): `hob-1.0.0.zip` (the
   Blender extension) and `hob-examples.zip` (example scenes, optional).
-- **User guide (English / 한국어):** https://app.notion.com/p/41974ea2456f81408695dc33e2bcac44
+- **User guide (English / 한국어):** https://coherent-equipment-446.notion.site/41974ea2456f81408695dc33e2bcac44
 
 ## Requirements
 
@@ -42,7 +42,7 @@ HoB는 Blender 안에서 Houdini를 실행하는 Blender 애드온입니다. Hou
 
 - **내려받기:** [최신 릴리스](https://github.com/jeyvim2/HoB/releases/latest)의 `hob-1.0.0.zip`(Blender
   확장)과 `hob-examples.zip`(예제 장면, 선택)
-- **사용 가이드(English / 한국어):** https://app.notion.com/p/41974ea2456f81408695dc33e2bcac44
+- **사용 가이드(English / 한국어):** https://coherent-equipment-446.notion.site/41974ea2456f81408695dc33e2bcac44
 - **Houdini는 따로 설치해야 합니다.** HoB에는 Houdini가 들어 있지 않고, HoB가 Houdini를 내려받거나 설치하지도
   않습니다. SideFX([sidefx.com/download](https://www.sidefx.com/download/))에서 Houdini 22.x를 받아 설치하고,
   라이선스가 설정되도록 한 번 실행해 두십시오. 무료 Apprentice를 포함해 어떤 라이선스든 됩니다(제한은 가이드 참고).
